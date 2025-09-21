@@ -1,0 +1,280 @@
+{
+  "company": {
+    "legal_name": "ALL IN DIGITAL MARKETING S.L.",
+    "commercial_name": "Allzone",
+    "cif": "B88369178",
+    "founded": "2019-04-12",
+    "capital": 3000,
+    "ceo": "Pablo Sebastián Moscoloni Medina",
+    "administrator": "Angelica Celsa Medina Perez",
+    "address": {
+      "street": "C/ Anabel Segura, 10 - 3ª Planta",
+      "building": "Edificio Fiteni",
+      "postal_code": "28108",
+      "city": "Alcobendas",
+      "province": "Madrid",
+      "country": "España"
+    },
+    "contact": {
+      "phone": "910 916 858",
+      "website": "https://allzone.es",
+      "email": "No disponible públicamente"
+    }
+  },
+  "statistics": {
+    "ocu_complaints_2025": 1197,
+    "ocu_complaints_2024": 22,
+    "growth_percentage": 2000,
+    "trustpilot_reviews": 32000,
+    "trustpilot_rating": 1.1,
+    "estimated_amount_withheld": 3000000,
+    "estimated_victims": 6000,
+    "average_loss_per_victim": 587
+  },
+  "financial_evolution": [
+    {"year": 2021, "revenue": 6000000},
+    {"year": 2022, "revenue": 13300000},
+    {"year": 2023, "revenue": 27000000},
+    {"year": 2024, "revenue": 37000000}
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "amount": 1064,
+      "status": "SIN RESOLVER",
+      "days_waiting": 85,
+      "product": "iPhone 16 Pro",
+      "message": "Llevo 85 días con 1.064€ retenidos por un iPhone 16 Pro que nunca llegó. He presentado denuncia en Policía Nacional.",
+      "author": "Eduardo M.",
+      "location": "Madrid",
+      "date": "2025-06",
+      "police_report": true
+    },
+    {
+      "id": 2,
+      "amount": 923,
+      "status": "2 MESES RETENIDO",
+      "days_waiting": 60,
+      "product": "Samsung Galaxy S24",
+      "message": "Pedí un Samsung Galaxy S24. Prometieron reembolso para el 11/08/2025. Después de emails diarios, NADA.",
+      "author": "Elaine Williams",
+      "location": "Reino Unido",
+      "date": "2025-05",
+      "police_report": false
+    },
+    {
+      "id": 3,
+      "amount": 467.97,
+      "status": "5 MESES SIN REEMBOLSO",
+      "days_waiting": 150,
+      "product": "Smartphone",
+      "message": "Pedido el 17 febrero, cancelado el 15 abril. A 3 de julio, sin reembolso. El teléfono nunca contestan.",
+      "author": "Manuel B.A.",
+      "location": "Valencia",
+      "date": "2025-07",
+      "police_report": false
+    },
+    {
+      "id": 4,
+      "amount": 789,
+      "status": "NUNCA ENTREGADO",
+      "days_waiting": 180,
+      "product": "Samsung Galaxy S25",
+      "message": "Samsung Galaxy S25 comprado en marzo. Solo excusas: 'problemas logísticos', 'GLS no recogió'. Es una estafa.",
+      "author": "Carmen R.",
+      "location": "Barcelona",
+      "date": "2025-03",
+      "police_report": true
+    },
+    {
+      "id": 5,
+      "amount": 754,
+      "status": "OFICINAS VACÍAS",
+      "days_waiting": 90,
+      "product": "Móvil Samsung",
+      "message": "Fui a sus oficinas en Alcobendas. NO HAY NADIE. Todo vacío. Es una fachada.",
+      "author": "Miguel T.",
+      "location": "Madrid",
+      "date": "2025-06",
+      "police_report": true
+    },
+    {
+      "id": 6,
+      "amount": 80000,
+      "status": "AMENAZA LEGAL",
+      "days_waiting": 0,
+      "product": "Amenaza por publicar",
+      "message": "Publiqué mi experiencia en Twitter y me amenazaron con una demanda de 80.000€ para silenciarme.",
+      "author": "Anónimo",
+      "location": "España",
+      "date": "2025-04",
+      "police_report": false,
+      "legal_threat": true
+    },
+    {
+      "id": 7,
+      "amount": 1250,
+      "status": "DENUNCIA POLICIAL",
+      "days_waiting": 240,
+      "product": "MacBook Pro",
+      "message": "MacBook Pro pagado en enero. Nunca llegó. He presentado denuncia en Policía Nacional.",
+      "author": "Roberto L.",
+      "location": "Sevilla",
+      "date": "2025-08",
+      "police_report": true
+    },
+    {
+      "id": 8,
+      "amount": 567,
+      "status": "4 MESES ESPERANDO",
+      "days_waiting": 120,
+      "product": "iPad",
+      "message": "iPad comprado para mi hijo. Solo excusas y más excusas. Es una vergüenza.",
+      "author": "María P.",
+      "location": "Bilbao",
+      "date": "2025-07",
+      "police_report": false
+    },
+    {
+      "id": 9,
+      "amount": 890,
+      "status": "SIN RESPUESTA",
+      "days_waiting": 90,
+      "product": "iPhone",
+      "message": "Ni producto ni dinero. El teléfono no existe. Los emails son bots. ESTAFA TOTAL.",
+      "author": "Francisco M.",
+      "location": "Zaragoza",
+      "date": "2025-06",
+      "police_report": true
+    },
+    {
+      "id": 10,
+      "amount": 721.22,
+      "status": "ESTAFA CONFIRMADA",
+      "days_waiting": 330,
+      "product": "Varios productos",
+      "message": "Estafa Allzone (B88369178) de 721,22€. Llevo casi un año esperando.",
+      "author": "Víctima OCU",
+      "location": "España",
+      "date": "2024-10",
+      "police_report": true
+    }
+  ],
+  "official_actions": [
+    {
+      "date": "2025-03-13",
+      "organization": "OCU",
+      "action": "Denuncia formal ante el Ministerio de Consumo",
+      "description": "1.197 reclamaciones acumuladas, incremento del 2000% respecto a 2024",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2025/allzone130325"
+    },
+    {
+      "date": "2025-05-21",
+      "organization": "FACUA",
+      "action": "Solicitud de cierre cautelar",
+      "description": "Denuncia y solicitud de cierre inmediato de la web para evitar más víctimas",
+      "url": "https://facua.org/noticias/facua-denuncia-a-la-tienda-online-allzone-por-no-enviar-a-los-usuarios-los-productos-que-adquieren-a-traves-de-su-web/"
+    },
+    {
+      "date": "2025-09",
+      "organization": "Ministerio de Consumo",
+      "action": "Investigación en curso",
+      "description": "La Subdirección General de Inspección investiga a ALL IN DIGITAL MARKETING S.L.",
+      "status": "En curso"
+    }
+  ],
+  "fraud_pattern": {
+    "phases": [
+      {
+        "phase": 1,
+        "name": "Captación",
+        "description": "Precios 20-30% más bajos que la competencia. Stock falso siempre disponible."
+      },
+      {
+        "phase": 2,
+        "name": "Cobro Inmediato",
+        "description": "Pago procesado al instante. Confirmación automática con número de seguimiento falso."
+      },
+      {
+        "phase": 3,
+        "name": "Dilación",
+        "description": "Problemas logísticos, Retraso del proveedor, plazos que nunca se cumplen."
+      },
+      {
+        "phase": 4,
+        "name": "Retención",
+        "description": "Teléfono nunca responde. Emails automáticos. Dinero retenido indefinidamente."
+      }
+    ],
+    "critical_threshold": 400,
+    "critical_threshold_description": "El 95% de los problemas ocurren con productos superiores a 400€"
+  },
+  "international_presence": [
+    {"country": "España", "flag": "🇪🇸", "estimated_victims": 4000},
+    {"country": "Reino Unido", "flag": "🇬🇧", "status": "Múltiples casos"},
+    {"country": "Francia", "flag": "🇫🇷", "status": "Quejas verificadas"},
+    {"country": "Alemania", "flag": "🇩🇪", "status": "En sistemas de alerta"},
+    {"country": "Italia", "flag": "🇮🇹", "status": "Casos documentados"},
+    {"country": "Irlanda", "flag": "🇮🇪", "status": "Reseñas negativas"}
+  ],
+  "review_platforms": [
+    {
+      "platform": "Trustpilot",
+      "rating": 1.1,
+      "max_rating": 5,
+      "total_reviews": 32000,
+      "url": "https://www.trustpilot.com/review/allzone.es"
+    },
+    {
+      "platform": "ScamAdviser",
+      "trust_score": "Muy bajo",
+      "status": "Sitio sospechoso",
+      "url": "https://www.scamadviser.com/check-website/allzone.es"
+    },
+    {
+      "platform": "Trusted Shops",
+      "status": "Sin certificación",
+      "complaints": "Múltiples"
+    }
+  ],
+  "emergency_contacts": {
+    "police": {
+      "name": "Policía Nacional",
+      "phone": "091",
+      "purpose": "Denuncias por estafa y apropiación indebida"
+    },
+    "civil_guard": {
+      "name": "Guardia Civil",
+      "phone": "062",
+      "purpose": "Denuncias en zonas rurales"
+    },
+    "consumer": {
+      "name": "Teléfono de Consumo",
+      "phone": "900 11 22 94",
+      "purpose": "Información y asesoramiento"
+    },
+    "ocu": {
+      "name": "OCU",
+      "phone": "913 009 151",
+      "website": "https://www.ocu.org",
+      "purpose": "Denuncias colectivas"
+    },
+    "facua": {
+      "name": "FACUA",
+      "website": "https://www.facua.org",
+      "purpose": "Denuncias colectivas"
+    }
+  },
+  "metadata": {
+    "last_updated": "2025-09-19",
+    "data_sources": [
+      "OCU - Organización de Consumidores y Usuarios",
+      "FACUA - Consumidores en Acción",
+      "Ministerio de Consumo de España",
+      "Trustpilot",
+      "Testimonios públicos verificados",
+      "Registros mercantiles públicos"
+    ],
+    "disclaimer": "Toda la información presentada proviene de fuentes públicas oficiales y verificadas"
+  }
+}
