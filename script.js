@@ -154,8 +154,8 @@ function initIntersectionObserver() {
 // Share functionality
 function shareWarning() {
     const shareData = {
-        title: 'ALERTA: Allzone España - 1.197 Denuncias Oficiales',
-        text: '⚠️ IMPORTANTE: Allzone.es acumula 1.197 denuncias ante la OCU. FACUA solicita su cierre inmediato. Más de 3 millones de euros retenidos. NO COMPRES.',
+        title: 'Información Pública: ALL IN DIGITAL MARKETING S.L.',
+        text: 'Información de interés público: OCU reporta 1.197 reclamaciones sobre ALL IN DIGITAL MARKETING S.L. (Allzone.es). FACUA ha solicitado medidas a las autoridades. Más información de fuentes oficiales:',
         url: window.location.href
     };
     
@@ -276,7 +276,7 @@ function loadTestimonials() {
 function initShareButtons() {
     // Twitter/X share
     const twitterShare = () => {
-        const text = "⚠️ ALERTA: Allzone.es acumula 1.197 denuncias ante la OCU. FACUA solicita su cierre. NO COMPRES. Más info:";
+        const text = "Información pública: OCU reporta 1.197 reclamaciones sobre ALL IN DIGITAL MARKETING S.L. (Allzone.es). FACUA solicita medidas. Fuentes oficiales:";
         const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(window.location.href)}`;
         window.open(url, '_blank', 'width=550,height=420');
     };
@@ -289,7 +289,7 @@ function initShareButtons() {
     
     // WhatsApp share
     const whatsappShare = () => {
-        const text = "⚠️ IMPORTANTE sobre Allzone.es: 1.197 denuncias oficiales ante la OCU. Más de 3 millones de euros retenidos. NO COMPRES. Info completa:";
+        const text = "Información de interés público: ALL IN DIGITAL MARKETING S.L. tiene 1.197 reclamaciones según OCU. Información completa de fuentes oficiales:";
         const url = `https://wa.me/?text=${encodeURIComponent(text + ' ' + window.location.href)}`;
         window.open(url, '_blank');
     };
@@ -408,11 +408,10 @@ document.addEventListener('visibilitychange', () => {
     }
 });
 
-// Log warning in console
-console.log('%c⚠️ ADVERTENCIA', 'color: red; font-size: 30px; font-weight: bold;');
-console.log('%cAllzone.es está siendo investigado por fraude masivo', 'color: red; font-size: 16px;');
-console.log('%c1.197 denuncias oficiales ante la OCU', 'color: orange; font-size: 14px;');
-console.log('%cNO COMPRES en allzone.es', 'color: red; font-size: 20px; font-weight: bold');
+// Log information in console
+console.log('%cℹ️ Información Pública', 'color: blue; font-size: 20px; font-weight: bold;');
+console.log('%cEste sitio recopila información pública de fuentes oficiales', 'color: #333; font-size: 14px;');
+console.log('%cFuentes: OCU, FACUA, Registros Mercantiles Públicos', 'color: #666; font-size: 12px;');
 
 // Performance optimization: Lazy load images if any
 if ('IntersectionObserver' in window) {
