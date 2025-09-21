@@ -736,7 +736,7 @@ address {
     align-items: center;
     gap: 0.5rem;
     background: var(--danger);
-    color: white;
+    color: rgb(17, 16, 16);
     padding: 0.5rem 1rem;
     border-radius: 20px;
     font-weight: 500;
